@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://epg.it999.ru/epg2.xml.gz"
+#EXTM3U url-tvg="https://epg.one/epg.xml.gz"
 #EXTINF:0 tvg-rec="0",Первый канал UHD
 #EXTGRP:Общие
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19241/index.m3u8
