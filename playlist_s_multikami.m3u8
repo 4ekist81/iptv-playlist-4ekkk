@@ -1070,12 +1070,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31912/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/fox-news-us.png",Fox News FHD US
 #EXTGRP:Новостные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31915/index.m3u8
-#EXTINF:0 tvg-rec="7" tvg-logo="https://iptvx.one/picons/2na2.png",2x2
-#EXTGRP:Кино
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/702/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/2na2.png",2x2 orig
-#EXTGRP:Кино
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9139/index.m3u8
 #EXTINF:0 tvg-rec="7" tvg-logo="https://iptvx.one/picons/sony-turbo.png",.black
 #EXTGRP:Кино
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/708/index.m3u8
@@ -4742,6 +4736,12 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9181/index.m3u8
 #EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/nick-jr.png",Nick Jr. orig
 #EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9182/index.m3u8
+#EXTINF:0 tvg-rec="7" tvg-logo="https://iptvx.one/picons/2na2.png",2x2
+#EXTGRP:Кино
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/702/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/2na2.png",2x2 orig
+#EXTGRP:Кино
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9139/index.m3u8
 #EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/detsky-mir.png",Детский мир orig
 #EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9184/index.m3u8
