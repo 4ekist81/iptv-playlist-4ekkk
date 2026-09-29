@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://iptvx.one/epg/epg.xml.gz"
-#EXTINF:-1 tvg-rec="0" tvg-logo="https://iptvx.one/picons/pervy-mn1.png",Первый канал UHD
+#EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/pervy-mn1.png",Первый канал UHD
 #EXTGRP:Общие
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19241/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/ntv.png",НТВ UHD
@@ -275,7 +275,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16043/index.m3u8
 #EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/tochka-tv.png",Точка ТВ
 #EXTGRP:Общие
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/2053/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(0%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(40%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3ETV%3C%2Ftext%3E%3C%2Fsvg%3E",360 HD
+#EXTINF:0 tvg-rec="3" tvg-logo="",360 HD
 #EXTGRP:Общие
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/2065/index.m3u8
 #EXTINF:0 tvg-rec="7" tvg-logo="https://iptvx.one/picons/360-podmoskovie.png",360
@@ -344,7 +344,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9028/index.m3u8
 #EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/ratnik.png",Ратник HD
 #EXTGRP:Общие
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/2119/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(0%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(40%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3ETV%3C%2Ftext%3E%3C%2Fsvg%3E",360 HD orig
+#EXTINF:0 tvg-rec="3" tvg-logo="",360 HD orig
 #EXTGRP:Общие
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9036/index.m3u8
 #EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/tvcentr.png",ТВЦ orig
@@ -458,7 +458,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9207/index.m3u8
 #EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/tnt4.png",ТНТ4 orig
 #EXTGRP:Общие
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9208/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(0%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(40%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3ETV%3C%2Ftext%3E%3C%2Fsvg%3E",360 orig
+#EXTINF:0 tvg-rec="3" tvg-logo="",360 orig
 #EXTGRP:Общие
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9209/index.m3u8
 #EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/mir.png",Мир orig
@@ -1070,6 +1070,12 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31912/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/fox-news-us.png",Fox News FHD US
 #EXTGRP:Новостные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31915/index.m3u8
+#EXTINF:0 tvg-rec="7" tvg-logo="https://iptvx.one/picons/2na2.png",2x2
+#EXTGRP:Кино
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/702/index.m3u8
+#EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/2na2.png",2x2 orig
+#EXTGRP:Кино
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9139/index.m3u8
 #EXTINF:0 tvg-rec="7" tvg-logo="https://iptvx.one/picons/sony-turbo.png",.black
 #EXTGRP:Кино
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/708/index.m3u8
@@ -2102,13 +2108,13 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/4000/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/vhshd.png",VB VHS Classic
 #EXTGRP:Кино
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19429/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(225%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(265%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3EV%D0%9D%3C%2Ftext%3E%3C%2Fsvg%3E",VB Назад в СССР HD
+#EXTINF:0 tvg-rec="0" tvg-logo="",VB Назад в СССР HD
 #EXTGRP:Кино
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20175/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/312-serial.png",VB Российские Сериалы
 #EXTGRP:Кино
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18043/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(164%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(204%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3EV%D0%A1%3C%2Ftext%3E%3C%2Fsvg%3E",VB Сваты HD
+#EXTINF:0 tvg-rec="0" tvg-logo="",VB Сваты HD
 #EXTGRP:Кино
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31624/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/epic.png",VB Спецназ-Диверсант HD
@@ -4391,7 +4397,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/14152/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/khit.png",VB Dance Hits of 90s
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/14154/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(137%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(177%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3EV%D0%A0%3C%2Ftext%3E%3C%2Fsvg%3E",VB Русская Попса 80х-90х
+#EXTINF:0 tvg-rec="0" tvg-logo="",VB Русская Попса 80х-90х
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/14155/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/khit.png",VB Russian Dance Hits of 90s
@@ -4409,13 +4415,13 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15107/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/muztv.png",МУЗ-ТВ +3 (Омск)
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15441/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(279%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(319%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3EVB%3C%2Ftext%3E%3C%2Fsvg%3E",VB Best Live Performances
+#EXTINF:0 tvg-rec="0" tvg-logo="",VB Best Live Performances
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16003/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(219%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(259%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3EVR%3C%2Ftext%3E%3C%2Fsvg%3E",VB Romantic and Ballads
+#EXTINF:0 tvg-rec="0" tvg-logo="",VB Romantic and Ballads
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16014/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(212%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(252%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3E%D0%A0L%3C%2Ftext%3E%3C%2Fsvg%3E",Радио LoveIsRadio.by HD
+#EXTINF:0 tvg-rec="0" tvg-logo="",Радио LoveIsRadio.by HD
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16015/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/inrating.png",InRating TV HD UA
@@ -4442,10 +4448,10 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/17047/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/khit.png",Радио Хит HD (Орск)
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/17048/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(244%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(284%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3EVM%3C%2Ftext%3E%3C%2Fsvg%3E",VB Modern Talking and Co
+#EXTINF:0 tvg-rec="0" tvg-logo="",VB Modern Talking and Co
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/17052/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(182%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(222%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3E%D0%9C%D0%98%3C%2Ftext%3E%3C%2Fsvg%3E",Мелодии и ритмы зарубежной эстрады
+#EXTINF:0 tvg-rec="0" tvg-logo="",Мелодии и ритмы зарубежной эстрады
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/17057/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/312-music.png",Tviksel Музыка 1 HD
@@ -4553,7 +4559,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20000/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="http://epg.one/img2/7591.png",NM Television HD
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20161/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(177%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(217%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3E%23%D0%A1%3C%2Ftext%3E%3C%2Fsvg%3E",#ё HD (Самара)
+#EXTINF:0 tvg-rec="0" tvg-logo="",#ё HD (Самара)
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20162/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/box-ru-rap.png",BOX RU.RAP HD
@@ -4736,12 +4742,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9181/index.m3u8
 #EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/nick-jr.png",Nick Jr. orig
 #EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9182/index.m3u8
-#EXTINF:0 tvg-rec="7" tvg-logo="https://iptvx.one/picons/2na2.png",2x2
-#EXTGRP:Кино
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/702/index.m3u8
-#EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/2na2.png",2x2 orig
-#EXTGRP:Кино
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9139/index.m3u8
 #EXTINF:0 tvg-rec="3" tvg-logo="https://iptvx.one/picons/detsky-mir.png",Детский мир orig
 #EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9184/index.m3u8
@@ -5939,7 +5939,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15401/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/che-pl4.png",Че! +4
 #EXTGRP:Развлекательные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15421/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(166%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(206%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3EV%D0%9E%3C%2Ftext%3E%3C%2Fsvg%3E",VB ОСП-Студия
+#EXTINF:0 tvg-rec="0" tvg-logo="",VB ОСП-Студия
 #EXTGRP:Развлекательные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16004/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="http://epg.one/img2/5118.png",VB Осторожно Модерн
@@ -6167,7 +6167,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19340/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/nntv.png",ННТВ HD (Нижний Новгород)
 #EXTGRP:Региональные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19343/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(3%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(43%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3E%D0%A1%D0%90%D0%9C%D0%90%3C%2Ftext%3E%3C%2Fsvg%3E",450 (Самара)
+#EXTINF:0 tvg-rec="0" tvg-logo="",450 (Самара)
 #EXTGRP:Региональные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19347/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/gubernia.png",Губерния (Хабаровск)
@@ -6182,7 +6182,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19353/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="http://epg.one/img2/6760.png",Самара ГИС HD
 #EXTGRP:Региональные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19357/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(136%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(176%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3E%D0%A12%3C%2Ftext%3E%3C%2Fsvg%3E",СГДФ 24 HD (Свердловск)
+#EXTINF:0 tvg-rec="0" tvg-logo="",СГДФ 24 HD (Свердловск)
 #EXTGRP:Региональные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19359/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/ramenskoe-tv.png",Раменское ТВ HD
@@ -6263,7 +6263,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31893/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/yamal-region.png",Ямал регион HD
 #EXTGRP:Региональные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31897/index.m3u8
-#EXTINF:0 tvg-rec="0" tvg-logo="data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20100%20100%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22hsl(146%2C%2070%25%2C%2025%25)%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22hsl(186%2C%2080%25%2C%2045%25)%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22100%22%20height%3D%22100%22%20rx%3D%2220%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%2250%22%20y%3D%2258%22%20fill%3D%22%23ffffff%22%20font-family%3D%22-apple-system%2C%20BlinkMacSystemFont%2C%20'Segoe%20UI'%2C%20Roboto%2C%20sans-serif%22%20font-size%3D%2228%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%20letter-spacing%3D%221%22%3E%D0%98%D0%A0%D0%9A%D0%A3%3C%2Ftext%3E%3C%2Fsvg%3E",360 (Иркутск)
+#EXTINF:0 tvg-rec="0" tvg-logo="",360 (Иркутск)
 #EXTGRP:Региональные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31909/index.m3u8
 #EXTINF:0 tvg-rec="0" tvg-logo="https://iptvx.one/picons/25-region-vladik.png",25 Регион (Приморье)
