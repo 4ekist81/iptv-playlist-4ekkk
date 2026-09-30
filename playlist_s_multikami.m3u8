@@ -3182,9 +3182,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/2084/index.m3u8
 #EXTINF:0 tvg-rec="3",Da Vinci orig
 #EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/1033/index.m3u8
-#EXTINF:0 tvg-rec="3",Da Vinci FHD UA
-#EXTGRP:Детские
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/1034/index.m3u8
 #EXTINF:0 tvg-rec="3",Малыш
 #EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/1041/index.m3u8
@@ -3659,12 +3656,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/234/index.m3u8
 #EXTINF:0 tvg-rec="3",KHL Prime HD orig
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9003/index.m3u8
-#EXTINF:0 tvg-rec="0",Sport 3 HD UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31445/index.m3u8
-#EXTINF:0 tvg-rec="0",UPL TV HD UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31446/index.m3u8
 #EXTINF:0 tvg-rec="0",Tring Sport 1 HD AL
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31563/index.m3u8
@@ -3842,15 +3833,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/14190/index.m3u8
 #EXTINF:0 tvg-rec="0",Окко Event 6
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/14191/index.m3u8
-#EXTINF:0 tvg-rec="0",UPL TV 1 HD UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/14193/index.m3u8
-#EXTINF:0 tvg-rec="0",UPL TV 2 HD UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/14194/index.m3u8
-#EXTINF:0 tvg-rec="0",UPL TV 3 HD UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/14195/index.m3u8
 #EXTINF:0 tvg-rec="0",QazSport HD KZ
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/14032/index.m3u8
@@ -3989,12 +3971,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/270/index.m3u8
 #EXTINF:0 tvg-rec="3",Setanta Qazaqstan HD
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/2399/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports FHD UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/272/index.m3u8
-#EXTINF:0 tvg-rec="3",Setanta Sports+ FHD UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/5068/index.m3u8
 #EXTINF:0 tvg-rec="7",Viju+ Sport HD
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/2007/index.m3u8
@@ -4010,12 +3986,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/5067/index.m3u8
 #EXTINF:0 tvg-rec="7",Удар FHD
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/2000/index.m3u8
-#EXTINF:0 tvg-rec="3",Xsport HD UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/996/index.m3u8
-#EXTINF:0 tvg-rec="3",Xsport HD UA orig
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/5077/index.m3u8
 #EXTINF:0 tvg-rec="3",Russian Extreme UHD
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/5003/index.m3u8
@@ -4211,12 +4181,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15162/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Спорт 24
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15163/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports HD UA orig
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15183/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA orig
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15184/index.m3u8
 #EXTINF:0 tvg-rec="0",Q Sport.KG HD
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15238/index.m3u8
@@ -4523,18 +4487,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31682/index.m3u8
 #EXTINF:0 tvg-rec="0",StrahTV MMA TIME HD
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31710/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31754/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports HD UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31755/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports+ UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31756/index.m3u8
-#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA
-#EXTGRP:Спорт
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31757/index.m3u8
 #EXTINF:0 tvg-rec="0",Diema Sport 3 HD BG
 #EXTGRP:Спорт
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31917/index.m3u8
@@ -4868,9 +4820,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16014/index.m3u8
 #EXTINF:0 tvg-rec="0",Радио LoveIsRadio.by HD
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16015/index.m3u8
-#EXTINF:0 tvg-rec="0",InRating TV HD UA
-#EXTGRP:Музыка
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16020/index.m3u8
 #EXTINF:0 tvg-rec="0",Радио Шансон HD
 #EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16036/index.m3u8
@@ -5555,9 +5504,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9060/index.m3u8
 #EXTINF:0 tvg-rec="3",Глазами Туриста HD orig
 #EXTGRP:Познавательные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9061/index.m3u8
-#EXTINF:0 tvg-rec="3",Трофей UA
-#EXTGRP:Познавательные
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9076/index.m3u8
 #EXTINF:0 tvg-rec="3",Дикая охота HD orig
 #EXTGRP:Познавательные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9081/index.m3u8
