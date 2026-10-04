@@ -1776,7 +1776,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/6299/index.m3u8
 #EXTGRP:Кино
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9004/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Аниме
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18133/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Боевики HD
 #EXTGRP:Кинозалы
@@ -1803,13 +1803,13 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18130/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18131/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Смешарики
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18136/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Советские мультфильмы
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18135/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Три богатыря
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18132/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Ужасы HD
 #EXTGRP:Кинозалы
@@ -1932,7 +1932,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/11047/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/11026/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Anime HD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19276/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Apocalypse HD
 #EXTGRP:Кинозалы
@@ -1989,10 +1989,10 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19281/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19285/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Stories HD
-#EXTGRP:Кинозалы
+#EXTGRP:Познавательные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20155/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Travel HD
-#EXTGRP:Кинозалы
+#EXTGRP:Познавательные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19418/index.m3u8
 #EXTINF:0 tvg-rec="0",BOX Western HD
 #EXTGRP:Кинозалы
@@ -2064,7 +2064,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/11013/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/11014/index.m3u8
 #EXTINF:0 tvg-rec="0",CineMan Симпсоны
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15101/index.m3u8
 #EXTINF:0 tvg-rec="0",CineMan Скорая Помощь
 #EXTGRP:Кинозалы
@@ -2088,7 +2088,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18139/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16152/index.m3u8
 #EXTINF:0 tvg-rec="0",Citrus Live HD
-#EXTGRP:Кинозалы
+#EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19436/index.m3u8
 #EXTINF:0 tvg-rec="0",Citrus Marvel
 #EXTGRP:Кинозалы
@@ -2145,7 +2145,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19294/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19296/index.m3u8
 #EXTINF:0 tvg-rec="0",Fresh Kids
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19288/index.m3u8
 #EXTINF:0 tvg-rec="0",Fresh Premiere
 #EXTGRP:Кинозалы
@@ -2217,16 +2217,13 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15090/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15095/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty МиМ FHD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19306/index.m3u8
-#EXTINF:0 tvg-rec="0",Liberty Мульт ENG 4K
-#EXTGRP:Кинозалы
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/17061/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Нетфликс 4K
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19402/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Планктон FHD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20140/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty РусФильм 4K
 #EXTGRP:Кинозалы
@@ -2244,7 +2241,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31665/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16055/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Симпсоны FHD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15111/index.m3u8
 #EXTINF:0 tvg-rec="0",Liberty Сказки FHD
 #EXTGRP:Кинозалы
@@ -2310,7 +2307,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16084/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16085/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Family Guy HD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19414/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Flip UHD
 #EXTGRP:Кинозалы
@@ -2343,13 +2340,13 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13014/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/19413/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Rock HD
-#EXTGRP:Кинозалы
+#EXTGRP:Музыка
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13015/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Smile HD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13043/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Tom and Jerry HD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13016/index.m3u8
 #EXTINF:0 tvg-rec="0",MM UFO HD
 #EXTGRP:Кинозалы
@@ -2367,16 +2364,16 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13022/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13019/index.m3u8
 #EXTINF:0 tvg-rec="0",MM USSR Мультфильм HD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13020/index.m3u8
 #EXTINF:0 tvg-rec="0",MM USSR Приключения HD
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13060/index.m3u8
 #EXTINF:0 tvg-rec="0",MM USSR Сказки HD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13021/index.m3u8
 #EXTINF:0 tvg-rec="0",MM Walt Disney HD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13064/index.m3u8
 #EXTINF:0 tvg-rec="0",MM World Hits HD
 #EXTGRP:Кинозалы
@@ -2502,7 +2499,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13062/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13063/index.m3u8
 #EXTINF:0 tvg-rec="0",MS Animated HD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/17024/index.m3u8
 #EXTINF:0 tvg-rec="0",MS Magic 4K
 #EXTGRP:Кинозалы
@@ -2511,7 +2508,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/16143/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15137/index.m3u8
 #EXTINF:0 tvg-rec="0",MS Toons HD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/15138/index.m3u8
 #EXTINF:0 tvg-rec="0",MS Young Blood HD
 #EXTGRP:Кинозалы
@@ -2619,7 +2616,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/11070/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/11064/index.m3u8
 #EXTINF:0 tvg-rec="7",StrahTV Юнит HD
-#EXTGRP:Кинозалы
+#EXTGRP:Познавательные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/11071/index.m3u8
 #EXTINF:0 tvg-rec="0",TOP 80 S HD
 #EXTGRP:Кинозалы
@@ -2643,10 +2640,10 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/13001/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18072/index.m3u8
 #EXTINF:0 tvg-rec="0",Tviksel Детское кино HD
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18073/index.m3u8
 #EXTINF:0 tvg-rec="0",Tviksel Детское кино International
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18074/index.m3u8
 #EXTINF:0 tvg-rec="0",Tviksel Кино 1 HD
 #EXTGRP:Кинозалы
@@ -2685,13 +2682,13 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/31642/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/10000/index.m3u8
 #EXTINF:0 tvg-rec="7",VF Anime
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/10001/index.m3u8
 #EXTINF:0 tvg-rec="0",VF Art house
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/11119/index.m3u8
 #EXTINF:0 tvg-rec="7",VF Cartoon
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/10002/index.m3u8
 #EXTINF:0 tvg-rec="7",VF Classic
 #EXTGRP:Кинозалы
@@ -2964,7 +2961,7 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/14236/index.m3u8
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20165/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Disney
-#EXTGRP:Кинозалы
+#EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20164/index.m3u8
 #EXTINF:0 tvg-rec="0",Yosso TV Grand
 #EXTGRP:Кинозалы
