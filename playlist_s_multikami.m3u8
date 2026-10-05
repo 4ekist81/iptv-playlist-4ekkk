@@ -1778,30 +1778,9 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9004/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Аниме
 #EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18133/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Боевики HD
-#EXTGRP:Кинозалы
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20172/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Загадочные убийства Агаты Кристи
-#EXTGRP:Кинозалы
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18127/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Знание
-#EXTGRP:Кинозалы
+#EXTGRP:Познавательные
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18134/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Комедии
-#EXTGRP:Кинозалы
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18137/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Мелодрамы
-#EXTGRP:Кинозалы
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18129/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Ментовские войны
-#EXTGRP:Кинозалы
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18128/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Мир без границ
-#EXTGRP:Кинозалы
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18130/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Некрасивая подружка
-#EXTGRP:Кинозалы
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18131/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Смешарики
 #EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18136/index.m3u8
@@ -1811,12 +1790,6 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18135/index.m3u8
 #EXTINF:0 tvg-rec="0",Триколор Три богатыря
 #EXTGRP:Детские
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18132/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Ужасы HD
-#EXTGRP:Кинозалы
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20178/index.m3u8
-#EXTINF:0 tvg-rec="0",Триколор Шерлок Холмс и доктор Ватсон
-#EXTGRP:Кинозалы
-http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18126/index.m3u8
 #EXTINF:0 tvg-rec="7",BCU Action HD
 #EXTGRP:Кинозалы
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/11027/index.m3u8
@@ -6803,3 +6776,30 @@ http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/147/index.m3u8
 #EXTINF:0 tvg-rec="0",Русская Ночь orig
 #EXTGRP:Взрослые
 http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/9344/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Боевики HD
+#EXTGRP:Кинозалы
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20172/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Загадочные убийства Агаты Кристи
+#EXTGRP:Кинозалы
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18127/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Комедии
+#EXTGRP:Кинозалы
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18137/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Мелодрамы
+#EXTGRP:Кинозалы
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18129/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Ментовские войны
+#EXTGRP:Кинозалы
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18128/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Мир без границ
+#EXTGRP:Кинозалы
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18130/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Некрасивая подружка
+#EXTGRP:Кинозалы
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18131/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Ужасы HD
+#EXTGRP:Кинозалы
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/20178/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор Шерлок Холмс и доктор Ватсон
+#EXTGRP:Кинозалы
+http://ouifsqyq.russtv.net/iptv/HC4N5S599E8CWK/18126/index.m3u8
